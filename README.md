@@ -60,9 +60,3 @@ Conduct exploratory data analysis (EDA) to understand trends.
 Build visual dashboards for insights and decision-making.
 
 Share findings via reports and presentations.
-
-📢 Contact & Contributions
-
-If you have any suggestions or want to collaborate, feel free to connect!
-
-📧 Email: [iamankitray@gmail.com]🔗 LinkedIn: [[Your LinkedIn Profile](https://www.linkedin.com/in/ankit-kumar-93504a2ba/)]📁 GitHub: (https://github.com/ankitray0285/Amazon-Sales-Dashboard/edit/main/README.md)
